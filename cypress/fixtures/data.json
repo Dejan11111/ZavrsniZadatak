@@ -1,0 +1,25 @@
+{
+    "login" : {
+        "email" : "mejac91@hotmail.com",
+        "password" : "detelinara1991",
+        "passwordComfirmation" : "detelinara1991",
+        "firstName" : "Dejan",
+        "lastName" : "Mejac",
+        "submit" : ".btn",
+        "profesorButton" : "#navbardrop",
+        "createProfesor" : "[href='/create-professor']"
+        
+        
+        
+    },
+
+    "createProfesor" : {
+        "url" : "https://citymagazine.rs/wp-content/uploads/2019/09/cover-divlje-zivotinje.jpg",
+        "createButton" : ".mr-auto > :nth-child(3) > .nav-link",
+        "descriptions" : "description",
+        "title" : "1"
+        
+
+    }
+
+}    

@@ -1,0 +1,14 @@
+{
+    "login" : {
+        "email" : "mejac91@hotmail.com",
+        "password" : "detelinara1991",
+        "submit" : "button[type='submit']"
+        
+    },
+
+    "create" : {
+        "firstName" : "aleksa",
+        "lastName" : "roki"
+
+    }
+}
